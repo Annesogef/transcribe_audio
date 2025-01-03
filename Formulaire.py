@@ -91,13 +91,47 @@ def refresh_ingredient_list():
         widget.destroy()
 
     for idx, ingredient in enumerate(json_data["ingredients_recette"]):
-        tk.Label(
+        item_text = f"{idx + 1}. {ingredient['nom_ingredient']} ({ingredient['quantite_ingredient']} {ingredient['unite_ingredient']})"
+        item_label = tk.Label(ingredient_frame, text=item_text)
+        item_label.pack(side="left", padx=5, pady=2)
+
+        delete_button = tk.Button(
             ingredient_frame,
-            text=f"{idx + 1}. {ingredient['nom_ingredient']} ({ingredient['quantite_ingredient']} {ingredient['unite_ingredient']})",
-        ).pack()
+            text="Delete",
+            command=lambda i=idx: remove_ingredient(i),
+        )
+        delete_button.pack(side="left", padx=5, pady=2)
+
+
+# Function to remove an ingredient
+def remove_ingredient(idx):
+    del json_data["ingredients_recette"][idx]
+    refresh_ingredient_list()  # Refresh the list after removal
 
 
 # Add multi-line instructions
+def add_variantes():
+    variantes_window = tk.Toplevel(root)
+    variantes_window.title("Add variantes")
+
+    tk.Label(variantes_window, text="Variantes (une par ligne):").grid(
+        row=0, column=0, padx=10, pady=10
+    )
+    text_area = tk.Text(variantes_window, width=50, height=10)
+    text_area.grid(row=1, column=0, padx=10, pady=10)
+
+    def save_variantes():
+        variantes = text_area.get("1.0", tk.END).strip().splitlines()
+        json_data["variantes_recette"].extend(
+            [vari.strip() for vari in variantes if vari.strip()]
+        )
+        refresh_lists()
+        variantes_window.destroy()
+
+    save_button = tk.Button(variantes_window, text="Ajouter", command=save_variantes)
+    save_button.grid(row=2, column=0, pady=10)
+
+
 def add_instructions():
     instruction_window = tk.Toplevel(root)
     instruction_window.title("Add Instructions")
@@ -142,19 +176,69 @@ def add_keyword():
     save_button.grid(row=1, column=0, columnspan=2, pady=10)
 
 
-# Refresh dynamic lists
+# Refresh dynamic lists including instructions, keywords, and variants
 def refresh_lists():
+    # Refresh instructions section
     for widget in instruction_frame.winfo_children():
         widget.destroy()
 
     for idx, instruction in enumerate(json_data["instructions_recette"]):
-        tk.Label(instruction_frame, text=f"{idx + 1}. {instruction}").pack()
+        item_text = f"{idx + 1}. {instruction}"
+        item_label = tk.Label(instruction_frame, text=item_text)
+        item_label.pack(side="left", padx=5, pady=2)
 
+        delete_button = tk.Button(
+            instruction_frame,
+            text="Delete",
+            command=lambda i=idx: remove_instruction(i),
+        )
+        delete_button.pack(side="left", padx=5, pady=2)
+
+    # Refresh keywords section
     for widget in keyword_frame.winfo_children():
         widget.destroy()
 
     for idx, keyword in enumerate(json_data["mots_cles_recette"]):
-        tk.Label(keyword_frame, text=f"{idx + 1}. {keyword}").pack()
+        item_text = f"{idx + 1}. {keyword}"
+        item_label = tk.Label(keyword_frame, text=item_text)
+        item_label.pack(side="left", padx=5, pady=2)
+
+        delete_button = tk.Button(
+            keyword_frame, text="Delete", command=lambda i=idx: remove_keyword(i)
+        )
+        delete_button.pack(side="left", padx=5, pady=2)
+
+    # Refresh variantes section
+    for widget in variantes_frame.winfo_children():
+        widget.destroy()
+
+    for idx, variante in enumerate(json_data["variantes_recette"]):
+        item_text = f"{idx + 1}. {variante}"
+        item_label = tk.Label(variantes_frame, text=item_text)
+        item_label.pack(side="left", padx=5, pady=2)
+
+        delete_button = tk.Button(
+            variantes_frame, text="Delete", command=lambda i=idx: remove_variante(i)
+        )
+        delete_button.pack(side="left", padx=5, pady=2)
+
+
+# Function to remove an instruction
+def remove_instruction(idx):
+    del json_data["instructions_recette"][idx]
+    refresh_lists()
+
+
+# Function to remove a keyword
+def remove_keyword(idx):
+    del json_data["mots_cles_recette"][idx]
+    refresh_lists()
+
+
+# Function to remove a variant
+def remove_variante(idx):
+    del json_data["variantes_recette"][idx]
+    refresh_lists()
 
 
 # Main GUI setup
@@ -209,25 +293,33 @@ instruction_frame.grid(row=7, column=0, columnspan=2)
 add_instruction_button = tk.Button(
     root, text="Add Instructions", command=add_instructions
 )
-
 add_instruction_button.grid(row=8, column=0, columnspan=2, pady=5)
+
+# Variantes Section
+tk.Label(root, text="Variantes :").grid(
+    row=9, column=0, columnspan=2, pady=10, sticky="w"
+)
+variantes_frame = tk.Frame(root)
+variantes_frame.grid(row=10, column=0, columnspan=2)
+add_variantes_button = tk.Button(root, text="Add Variantes", command=add_variantes)
+add_variantes_button.grid(row=11, column=0, columnspan=2, pady=5)
 
 # Keywords Section
 tk.Label(root, text="Keywords:").grid(
-    row=9, column=0, columnspan=2, pady=10, sticky="w"
+    row=12, column=0, columnspan=2, pady=10, sticky="w"
 )
 keyword_frame = tk.Frame(root)
-keyword_frame.grid(row=10, column=0, columnspan=2)
+keyword_frame.grid(row=13, column=0, columnspan=2)
 add_keyword_button = tk.Button(
     root,
     text="Add Keyword",
     command=add_keyword,
 )
-add_keyword_button.grid(row=11, column=0, columnspan=2, pady=5)
+add_keyword_button.grid(row=14, column=0, columnspan=2, pady=5)
 
 # Save Button
 save_button = tk.Button(root, text="Save to JSON", command=save_to_json)
-save_button.grid(row=12, column=0, columnspan=2, pady=20)
+save_button.grid(row=15, column=0, columnspan=2, pady=20)
 
 # Run the application
 root.mainloop()
