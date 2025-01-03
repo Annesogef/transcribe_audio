@@ -1,0 +1,21 @@
+{
+  "nom_recette": "Gateau au yaourt",
+  "ingredients_recette": [
+    {
+      "nom_ingredient": "Yaourt",
+      "quantite_ingredient": 4,
+      "unite_ingredient": "g"
+    }
+  ],
+  "instructions_recette": [
+    "Mélanger"
+  ],
+  "mots_cles_recette": [
+    "yaourt",
+    "gateau"
+  ],
+  "variantes_recette": [],
+  "unite_recette": "kg",
+  "quantite_recette": 12,
+  "type_recette": "dessert"
+}
