@@ -97,23 +97,48 @@ def refresh_ingredient_list():
         ).pack()
 
 
-# Add instruction or keyword
-def add_to_list(key, prompt):
-    list_window = tk.Toplevel(root)
-    list_window.title(f"Add {prompt}")
+# Add multi-line instructions
+def add_instructions():
+    instruction_window = tk.Toplevel(root)
+    instruction_window.title("Add Instructions")
 
-    tk.Label(list_window, text=f"New {prompt}:").grid(row=0, column=0, padx=10, pady=10)
-    entry = tk.Entry(list_window, width=40)
-    entry.grid(row=0, column=1, padx=10, pady=10)
+    tk.Label(instruction_window, text="Instructions (one per line):").grid(
+        row=0, column=0, padx=10, pady=10
+    )
+    text_area = tk.Text(instruction_window, width=50, height=10)
+    text_area.grid(row=1, column=0, padx=10, pady=10)
 
-    def save_item():
-        value = entry.get().strip()
+    def save_instructions():
+        instructions = text_area.get("1.0", tk.END).strip().splitlines()
+        json_data["instructions_recette"].extend(
+            [instr.strip() for instr in instructions if instr.strip()]
+        )
+        refresh_lists()
+        instruction_window.destroy()
+
+    save_button = tk.Button(instruction_window, text="Save", command=save_instructions)
+    save_button.grid(row=2, column=0, pady=10)
+
+
+# Add keyword
+def add_keyword():
+    keyword_window = tk.Toplevel(root)
+    keyword_window.title("Add Keyword")
+
+    tk.Label(keyword_window, text="New Keyword:").grid(
+        row=0, column=0, padx=10, pady=10
+    )
+    keyword_entry = tk.Entry(keyword_window, width=40)
+    keyword_entry.grid(row=0, column=1, padx=10, pady=10)
+
+    def save_keyword():
+        value = keyword_entry.get().strip()
         if value:
-            json_data[key].append(value)
+            json_data["mots_cles_recette"].append(value)
             refresh_lists()
-            list_window.destroy()
+            keyword_window.destroy()
 
-    save_button = tk.Button(list_window, text="Add", command=save_item)
+    save_button = tk.Button(keyword_window, text="Add", command=save_keyword)
     save_button.grid(row=1, column=0, columnspan=2, pady=10)
 
 
@@ -182,10 +207,9 @@ tk.Label(root, text="Instructions:").grid(
 instruction_frame = tk.Frame(root)
 instruction_frame.grid(row=7, column=0, columnspan=2)
 add_instruction_button = tk.Button(
-    root,
-    text="Add Instruction",
-    command=lambda: add_to_list("instructions_recette", "Instruction"),
+    root, text="Add Instructions", command=add_instructions
 )
+
 add_instruction_button.grid(row=8, column=0, columnspan=2, pady=5)
 
 # Keywords Section
@@ -197,7 +221,7 @@ keyword_frame.grid(row=10, column=0, columnspan=2)
 add_keyword_button = tk.Button(
     root,
     text="Add Keyword",
-    command=lambda: add_to_list("mots_cles_recette", "Keyword"),
+    command=add_keyword,
 )
 add_keyword_button.grid(row=11, column=0, columnspan=2, pady=5)
 
