@@ -1,0 +1,41 @@
+{
+    "nom_recette": "Crème au jasmin",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "de crème fleurette",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "300"
+        },
+        {
+            "nom_ingredient": "de lait",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "d’un bon thé au jasmin",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "jaunes d’oeuf",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "4"
+        }
+    ],
+    "instructions_recette": [],
+    "mots_cles_recette": [
+        "to do",
+        "dessert",
+        "jaune d'oeuf",
+        "lait"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 5,
+    "type_recette": "dessert"
+}

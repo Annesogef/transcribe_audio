@@ -1,0 +1,70 @@
+{
+    "nom_recette": "Beignets au four",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "Farine de Blé",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "320"
+        },
+        {
+            "nom_ingredient": "Lait",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "Sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "40"
+        },
+        {
+            "nom_ingredient": "Beurre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "40"
+        },
+        {
+            "nom_ingredient": "Œuf",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Levure boulangère sèche (ou 20g de Levure Boulangère Fraîche)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "fleur d’oranger",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Beurre fondu (enrobage)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "Sucre (enrobage)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "10"
+        }
+    ],
+    "instructions_recette": [
+        "Faire chauffer le lait ( pas trop, il doit être tiède) y délayer la levure. Laisser poser 5min.",
+        "Dans la cuve du robot, disposer le sel, les farines, le sucre.",
+        "Ajouter l’œuf, le mélange lait/levure et l’arôme et pétrir 5min à vitesse moyenne",
+        "Ajouter le beurre mou",
+        "Pétrir 5 min supplémentaire ( la pâte obtenue doit être lisse et souple )",
+        "Laisser pousser 2h dans un endroit chaud",
+        "Dégazer la pâte former des boules de 50g environ, ( facultatif : aplatir les boules y placer une cac de fourrage et bien les refermer), les placer sur une plaque recouverte de papier sulfurisé et laisser de côté encore 1h-1h30 à couvert",
+        "Enfourner 10 min dans un four préchauffé à 180°",
+        "Laisser un peu refroidir puis faire fondre le beurre dans un bol et mettre du sucre dans un autre bol",
+        "Badigeonner les beignets de beurre et les rouler dans le sucre et c’est prêt !",
+        "recette [**sarah_trytocook**](https://www.instagram.com/sarah_trytocook/)"
+    ],
+    "mots_cles_recette": [
+        "to do","beignet","oeuf","lait"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

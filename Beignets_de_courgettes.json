@@ -1,0 +1,75 @@
+{
+    "nom_recette": "Beignets de courgettes",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "courgette",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "pomme de terre",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "3"
+        },
+        {
+            "nom_ingredient": "maïzena",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "oeufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "brocciu (fromage frais de chêvre)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "1/2 sachet de levure",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "ail et échalotte ciselés",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "poignée de menthe",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "poignée de basilic",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "citron vert (jus)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Râper la courgette et la pomme de terre. Extraire le jus au torchon.",
+        "Ajouter la farine, la maïzena, les œufs, le brocciu, la levure, l’ail et l’échalotte ciselés, une poignée de menthe et de basilic, le jus d’un citron vert.",
+        "Mélanger le tout, on laisse prendre 30 min au froid et cuire deux min aller retour.",
+        "Servir avec un fromage blanc aux citron , menthe et pointe de miel."
+    ],
+    "mots_cles_recette": [
+        "to do", 
+        "courgette", 
+        "pomme de terre"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "plat"
+}

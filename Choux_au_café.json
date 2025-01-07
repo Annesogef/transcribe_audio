@@ -1,0 +1,116 @@
+{
+    "nom_recette": "Choux au café",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "eau (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "sel (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "sucre (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "beurre (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "65"
+        },
+        {
+            "nom_ingredient": "farine (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "85"
+        },
+        {
+            "nom_ingredient": "œufs (3 œufs) (pâte à choux)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "160"
+        },
+        {
+            "nom_ingredient": "beurre (craquelin)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "40"
+        },
+        {
+            "nom_ingredient": "sel (craquelin)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "sucre (craquelin)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "farine (craquelin)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "jaunes d’oeufs (crème pâtissière)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "5"
+        },
+        {
+            "nom_ingredient": "sucre en poudre (crème pâtissière)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "farine (crème pâtissière)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "de lait (crème pâtissière)",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "450"
+        },
+        {
+            "nom_ingredient": "de crème liquide (crème pâtissière)",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "grain de café concassés (crème pâtissière)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "60"
+        }
+    ],
+    "instructions_recette": [
+        "Pâte à choux",
+        "Dans une casserole, portez à ébullition l’eau, le beurre, le sel et le sucre.",
+        "Dès que le mélange bout, retirez du feu et versez la farine d’un coup et mélangez jusqu’à obtenir une pâte homogène.",
+        "Séchez la pâte en la remettant sur feu moyen et remuez énergiquement pendant 1 à 2 minutes.",
+        "Transférez dans un saladier et fouettez la pâte pour refroidir, puis ajoutez les œufs à la pâte en 3 fois. Mélangez bien entre chaque ajout.",
+        "Elle est prête lorsqu’elle est lisse, brillante, et retombe.",
+
+        "Biscuit craquelin",
+        "Mélangez beurre mou, sel, sucre et farine jusqu’à obtenir une pâte homogène.",
+        "Étalez entre deux feuilles de papier cuisson sur une épaisseur de 3mm environ.",
+        "À l’aide d’un emporte-pièce, découpez des disques légèrement plus petits que les choux. Placez-les au congélateur en attendant.",
+        "Cuire 30 min à 180°C, puis 10min à 140°C",
+        "Faites chauffer le lait et faites-y infuser le café. Dès l'ébullition, coupez le feu et laissez infuser 30 minutes.",
+        "Dans un bol, battez le sucre et les œufs avec un fouet, puis ajoutez la farine et mélangez à nouveau.",
+        "Débarrassez le lait et la crème à travers une passoire pour retirer les grains.",
+        "Débarrassez le lait et la crème à travers une passoire pour retirer les grains et mélangez les deux préparations. Remettez le tout dans la casserole et faites chauffer en remuant jusqu’à ce que le mélange épaississe.",
+        "Mettez directement en poche et laissez refroidir avant de fourrer les choux.",
+        "[**simonauscher**](https://www.instagram.com/simonauscher/)"
+    ],
+    "mots_cles_recette": [
+        "done",
+        "beurre",
+        "jaune d'oeuf",
+        "lait",
+        "pâte à choux"
+    ],
+    "unite_recette": "g",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

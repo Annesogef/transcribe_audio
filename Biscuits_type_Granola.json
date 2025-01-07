@@ -1,0 +1,51 @@
+{
+    "nom_recette": "Biscuits type Granola",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine t55",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "120"
+        },
+        {
+            "nom_ingredient": "farine complète",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "sucre de canne",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "60"
+        },
+        {
+            "nom_ingredient": "pincée de fleur de sel",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "beurre coupé en cubes",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "80"
+        },
+        {
+            "nom_ingredient": "oeuf",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "chocolat noir ou au lait",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        }
+    ],
+    "instructions_recette": [
+        "Mélangez les poudres entre elles, ajoutez le beurre et mélangez jusqu'à obtenir une texture sableuse, ajoutez l'œuf, mélangez rapidement. Etalez la pâte en rectangle, filmez-la et laissez-la reposer 2h au frais.",
+        "Etalez la pâte en rectangle, filmez-la et laissez-la reposer 2h au frais.",
+        "Au bout de ce temps détaillez des biscuits de 6cm de diamètre et enfournez pour environ 15 min",
+        "Faites fondre le chocolat puis trempez vos biscuits. Laissez cristalliser 1h avant des les dévorer!"
+    ],
+    "mots_cles_recette": ["biscuit", "chocolat"],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 25,
+    "type_recette": "dessert"
+}

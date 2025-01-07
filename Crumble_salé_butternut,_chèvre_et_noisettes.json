@@ -1,0 +1,77 @@
+{
+    "nom_recette": "Crumble salé butternut, chèvre et noisettes",
+    "ingredients_recette": [ {
+        "nom_ingredient": "grosse butternut",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "d’huile d’olive ",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "gousse d’ail",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "d'un peu de miel",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "d'un peu de thym⁣",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "bûche de chèvre",
+        "unite_ingredient": "u",
+        "quantite_ingredient": "1"
+    },
+    {
+        "nom_ingredient": "farine d’épeautre ⁣",
+        "unite_ingredient": "g",
+        "quantite_ingredient": "100"
+    }
+    ,
+    {
+        "nom_ingredient": "parmesan⁣",
+        "unite_ingredient": "g",
+        "quantite_ingredient": "100"
+    }
+    ,
+    {
+        "nom_ingredient": "poudre de noisettes⁣",
+        "unite_ingredient": "g",
+        "quantite_ingredient": "60"
+    }
+    ,
+    {
+        "nom_ingredient": "beurre demi-sel pommade",
+        "unite_ingredient": "g",
+        "quantite_ingredient": "150"
+    }
+    ],
+    "instructions_recette": [
+        "Préchauffez le four à 180 degrés.⁣",
+        "Couper en deux dans la longueur la butternut. Enlevez les pépins à l’aide d’une cuillère. Déposer la butternut sur une plaque pour aller au four.",
+        "Badigeonnez la butternut d’huile d’olive. Versez un peu plus d’huile d’olive là où se trouvaient les pépins avant et mettez y une gousse d’ail. Ajoutez un peu de miel. Assaisonnez avec sel et poivre. Parsemez de thym. ⁣Enfournez pour 45 minutes.",
+        "Pendant ce temps préparez la pâte à crumble. Mélangez la farine, le parmesan, la poudre de noisette, le beurre et un peu de thym avec les mains pour créer une pâte sableuse qui s’émiette facilement. ⁣",
+        "Une fois la butternut cuite, à l’aide d’une cuillère récupérez la chair et mettez la dans un bol. Ajoutez à votre convenance du beurre ou de l’huile d’olive et un peu de lait (moi j’utilise du lait d’avoine) pour réaliser une purée. Elle n’a pas besoin d’être lisse. Vous pouvez aussi ajouter des noisettes concassées. Assaisonnez.⁣",
+        "Dans un plat répartissez la purée de butternut. Découpez la bûche de chèvre en rondelles et disposez-les sur la purée.",
+        "Recouvrez la préparation de pâte à crumble. Enfournez pour 20/25 min à 180 degrés. ⁣Accompagnez le crumble d’une petite salade et régalez vous",
+        "Recette noemie memories instagram"
+    ],
+    "mots_cles_recette": [
+        "done",
+        "butternut",
+        "fromage de chèvre",
+        "plat"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 4,
+    "type_recette": "plat"
+}

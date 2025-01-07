@@ -1,0 +1,73 @@
+{
+    "nom_recette": "Cake au chocolat",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "120"
+        },
+        {
+            "nom_ingredient": "courgettes râpées",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "160"
+        },
+        {
+            "nom_ingredient": "beurre fondu",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "60"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "gros œufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "chocolat",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "pépite de chocolat",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "cuillère(s) à café de bicarbonate",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "de levure chimique",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "0,5"
+        },
+        {
+            "nom_ingredient": "de sel",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "0,5"
+        }
+    ],
+    "instructions_recette": [
+        "Faites fondre le beurre et le chocolat.",
+        "Mélangez ensemble les ingrédients secs : farine, bicarbonate, levure et sel.",
+        "Dans un autre bol, fouettez les œufs avec le sucre et ajoutez le chocolat fondu. Ajoutez la farine puis les courgettes râpées. Ajoutez ensuite les pépites de chocolat.",
+        "Versez dans un moule à cake et enfournez pour 35min à 180 degrés",
+        "recette goodcantine"
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "beurre",
+        "chocolat",
+        "courgette",
+        "oeufs"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

@@ -1,0 +1,59 @@
+{
+    "nom_recette": "Effiloché de poulet au gingembre",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "Poulet (cuisses, escalopes)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Bouillon",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Gingembre",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "gousse d’ail",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "oignon",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Beurre",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Laurier",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Vin blanc",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Faire griller le poulet sur toutes les faces. Ajouter une noix de beurre du laurier un oignon émincé, du gingembre du vin blanc de l’ail. Puis ajoutez du bouillon.",
+        "Laisser cuire 30/40 minutes à couvert sur feu moyen/doux,",
+        "Effilocher et enlever tous les os, puis remettre à cuire 10 minutes sans le couvercle, histoire que le bouillon réduise."
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "gingembre",
+        "poulet"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "plat"
+}

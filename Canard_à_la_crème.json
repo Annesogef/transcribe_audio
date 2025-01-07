@@ -1,0 +1,44 @@
+{
+    "nom_recette": "Canard à la crème",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "d'aiguillettes de canard",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "800"
+        },
+        {
+            "nom_ingredient": "crème fraîche",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "vinaigre balsamique",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "4"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "8"
+        }
+    ],
+    "instructions_recette": [
+        "Dans une poêle huilée, faites saisir les aiguillettes de chaque côté. Réservez au chaud.",
+        "Dans la même poêle, à feux doux, ajoutez la crème fraîche, le sucre et le vinaigre balsamique. Mélangez et faites cuire quelques minutes. Remettez la viande de canard pendant 2 min afin qu'elle macère dans la sauce sucrée salée. Enlevez les aiguillettes et réservez de nouveau au chaud.",
+        "Pour éviter une sauce trop liquide, faites la réduire. Elle doit s'épaissir au fil de la cuisson ce qui lui donnera plus de saveurs.",
+        "Disposez les aiguillettes dans des assiettes ou dans un plat de présentation et nappez les aiguillettes d'une cuillère de sauce épaissi.",
+        "Disposez harmonieusement et décorez avec des zestes d'orange ou de mandarine. Servez aussitôt accompagnées d'une purée maison ou de riz."
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "canard",
+        "crème fraiche"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [
+        "aiguillettes de canard au miel",
+        "aiguillettes de canard au sirop d'érable"
+    ],
+    "quantite_recette": 4,
+    "type_recette": "plat"
+}

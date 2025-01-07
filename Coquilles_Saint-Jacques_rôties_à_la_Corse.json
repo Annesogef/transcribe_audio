@@ -1,0 +1,53 @@
+{
+    "nom_recette": "Coquilles Saint-Jacques rôties à la Corse",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "coquilles Saint-Jacques",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "30"
+        },
+        {
+            "nom_ingredient": "châtaignes cuites",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "400"
+        },
+        {
+            "nom_ingredient": "noisettes",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "30"
+        },
+        {
+            "nom_ingredient": "clémentines",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "beurre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "180"
+        }
+    ],
+    "instructions_recette": [
+        "Ouvrez les coquilles Saint-Jacques. Enlevez la barbe, laissez la Saint-Jacques accrochée à la coquille et rincez à l’eau froide. Vous pouvez garder ou non le corail selon votre goût.",
+        "Dans une poêle à feu doux, versez les châtaignes.",
+        "Ajoutez une clémentine coupée en 4 ainsi que les feuilles, une clémentine pressée et de l’eau chaude de manière à presque couvrir les châtaignes. Une fois que les châtaignes commencent à s’ouvrir, ôtez-les du feu.",
+        "Dans une casserole clarifiez le beurre.",
+        "Chauffez le four pendant 20 minutes.",
+        "Placez les coquilles sur une plaque allant au four. Dans chaque coquille, ajoutez une châtaigne, une noisette, un quartier de clémentine et badigeonnez de beurre.",
+        "Passez le four sur le mode grill et enfournez.",
+        "Sortez les Saint-Jacques quand elles sont nacrées sur le dessus mais toujours crues à l’intérieur.",
+        "Râpez du zeste de clémentine et un pain de cacao sur les Saint-Jacques.",
+        "Recette instagram, c’est meilleur quand c’est bon"
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "chataigne",
+        "clementines",
+        "coquilles st jaques",
+        "noisette"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette":6,
+    "type_recette": "plat"
+}

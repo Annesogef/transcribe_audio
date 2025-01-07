@@ -1,0 +1,54 @@
+{
+    "nom_recette": "Biscuits à la cuillère (Pierre Hermé)",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "blanc d’oeuf (5 oeufs moyens)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "sucre semoule",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "jaune d’oeuf (4 oeufs moyens)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "80"
+        },
+        {
+            "nom_ingredient": "farine de tradition française",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "fécule de pomme de terre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "de sucre glace",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Tamisez la farine et la fécule de pomme de terre.",
+        "Séparer les œufs. Montez les blancs d’œufs en neige ferme en y incorporant le sucre semoule.",
+        "Versez les jaunes d’œufs tout en continuant de fouetter. Incorporez la farine/fécule tamisé.",
+        "Tapissez 2 plaques à pâtisserie de papier siliconé.",
+        "Dressez les biscuits avec une cuillère à soupe trempée dans l’eau chaude ou avec une poche munie d’une douille lisse n°7.",
+        "Poudrez de sucre glace tamisé. Attendez 8/10 minutes, puis poudrez de nouveau.",
+        "Glissez les plaques dans le four à chaleur tournante préchauffé à 230°C. Laissez cuire 6 minutes.",
+        "Laissez refroidir et décollez les biscuits à l’aide d’une spatule en métal."
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "biscuit",
+        "oeuf"
+    ],
+    "unite_recette": "g",
+    "variantes_recette": [],
+    "quantite_recette": 500,
+    "type_recette": "dessert"
+}

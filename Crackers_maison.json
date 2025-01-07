@@ -1,0 +1,50 @@
+{
+    "nom_recette": "Crackers maison",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "graines (tournesol, lin, sésame ou autres)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "fromage râpé (emmental, cheddar, comté...)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "40"
+        },
+        {
+            "nom_ingredient": "eau",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "d'huile de tournesol",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "20"
+        },
+        {
+            "nom_ingredient": "pincées de sel",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "d'un peu de poivre",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [],
+    "mots_cles_recette": [
+        "to do",
+        "apéritif",
+        "comté"
+    ],
+    "unite_recette": "g",
+    "variantes_recette": [],
+    "quantite_recette": 200,
+    "type_recette": "apéritif"
+}

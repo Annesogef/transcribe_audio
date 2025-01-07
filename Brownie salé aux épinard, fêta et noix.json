@@ -1,0 +1,74 @@
+{
+    "nom_recette": "Brownie salé aux épinard, fêta et noix",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "épinards (frais ou surgelés)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "fêta",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "belles poignées de noix",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "oignon (optionnel)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "œufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "de lait (vegetal ici)",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "ghee (ou beurre fondu)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "levure chimique",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "poignées de parmesan râpé",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        }
+    ],
+    "instructions_recette": [
+        "Préchauffer le four à 180°C",
+        "Commencer par faire cuire les épinards avec un oignon dans une poêle avec un filet d’huile d’olive. Une fois cuit, retirer l’excédent d’eau.",
+        "Dans un saladier, casser les œufs, ajouter le lait, la farine, la levure puis le beurre fondu.",
+        "Ajouter ensuite les épinards hachés, la feta couper en petit dés et les noix hachées.",
+        "Verser la pâte dans une moule carré beurré et fariné puis terminer par une belle couche de parmesan râpée. Enfournez pendant 40 à 45 minutes (ou jusqu’à ce qu’il soit bien doré)."
+    ],
+    "mots_cles_recette": [
+        "done",
+        "batchcooking", 
+        "épinard", 
+        "fêta",
+        "noix",
+        "oeuf"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "plat"
+}

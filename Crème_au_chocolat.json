@@ -1,0 +1,45 @@
+{
+    "nom_recette": "Crème au chocolat",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "chocolat noir",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "beurre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "de lait entier, demi écrémé ou végétal 🥛",
+            "unite_ingredient": "l",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "bombée de farine",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "2"
+        }
+    ],
+    "instructions_recette": [
+        "Faire fondre le beurre et le chocolat ensemble dans une casserole et à feu doux. Une fois le tout mélangé et fondu, ajouter la farine et mélanger immédiatement pour faire adhérer la farine à la matière grasse. On obtient un roux comme une béchamel salé, une pâte molle qui colle légèrement à la casserole.",
+        "Ajouter un tiers du lait en remuant régulièrement pour obtenir un mélange homogène qui ne colle pas au fond.",
+        "Ajouter le deuxième tiers, en procédant de la même manière, pluie le troisième. La meilleure manière de mélanger est de faire des 8 dans la casserole en raclant le fond avec une cuillère en bois. Le lait ne risque pas de brûler au fond.",
+        "Le mélange doit épaissir quand il se rapproche de l’ébullition. Quand le mélange bout, poursuivre 5 minutes la cuisson et verser dans un saladier « froid » pour que la crème prenne bien.",
+        "Laisser refroidir. Elle se déguste tiède ou froide, à vous de voir",
+        "recette onpartagetout"
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "beurre",
+        "chocolat",
+        "dessert",
+        "lait",
+        "sucré"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 6,
+    "type_recette": "dessert"
+}

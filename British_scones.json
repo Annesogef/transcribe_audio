@@ -1,0 +1,48 @@
+{
+    "nom_recette": "British scones",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "500"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "beurre demi-sel",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "125"
+        },
+        {
+            "nom_ingredient": "de lait demi-écrémé",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "300"
+        },
+        {
+            "nom_ingredient": "sachet de levure chimique",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Préchauffez votre four à 200 degrés.",
+        "Dans un grand bol, mélangez ensemble la farine et la levure ainsi que le sucre.",
+        "Ajoutez le beurre en morceaux et sablez le mélange du bout des doigts comme pour un crumble !",
+        "Versez le lait et amalgamez le tout à l'aide d'une fourchette. Veillez à ne pas trop mélanger, c'est ce qui donnera toute sa texture au scone !",
+        "Abaissez la pâte sur une épaisseur de 3cm et détaillez les scones à l'aide d'un emporte-pièce rond, cannelé de préférence.",
+        "Vous pouvez badigeonner vos scones de dorure (oeuf + une càs d'eau) pour des scones bien dorés à la sortie du four. Personnellement je ne le fais pas, je les préfère comme ça",
+        "Enfournez pour 15 à 20 min à 200 degrés. Ils doivent avoir bien gonflés et être uniformément dorés ! À déguster encore tiède ou froid."
+    ],
+    "mots_cles_recette": [
+        "done",
+        "beurre",
+        "lait"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

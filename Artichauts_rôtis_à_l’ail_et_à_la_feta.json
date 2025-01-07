@@ -1,0 +1,54 @@
+{
+    "nom_recette": "Artichauts rôtis à l’ail et à la feta",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "citron",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "artichauts poivrade",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "5"
+        },
+        {
+            "nom_ingredient": "tête d’ail",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "yaourt grec",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "3"
+        },
+        {
+            "nom_ingredient": "citron (jus)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Pour les artichauts",
+        "Pressez un citron dans un saladier avec de l’eau.",
+        "Tournez les artichauts puis coupez-les en deux. Ôtez le foin au centre s’il y en a.",
+        "Déposez les artichauts dans l’eau citronnée au fur et à mesure pour éviter qu’ils ne noircissent.",
+        "Placez-les dans une cocotte, avec la tête d’ail dont vous aurez coupé le haut. Badigeonner d’huile, d’origan et de sel.",
+        "Refermez la cocotte et enfournez à 200°C pour 45min.",
+        "Pour la sauce",
+        "Une fois que les artichauts sont cuits. Prélevez la tête d’ail et pressez-la pour en sortir l’ail cuit.",
+        "Mélangez le avec le reste des ingrédients de la sauce.",
+        "Pour le service",
+        "Étalez la sauce sur une assiette. Déposez les artichauts par-dessus avec la feta, les câpres et l’oignon rouge.",
+        "Recette instagram [**freethepickle**](https://www.instagram.com/freethepickle_/)"
+
+    ],
+    "mots_cles_recette": [
+        "artichaut", 
+        "yaourt", 
+        "to do"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 2,
+    "type_recette": "plat"
+}

@@ -1,0 +1,70 @@
+{
+    "nom_recette": "Artichaud au tahini et  Gremolata",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "Artichauts",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "Citron",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "Huile olive",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "Amandes",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "25"
+        },
+        {
+            "nom_ingredient": "Ciboulette",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "5"
+        },
+        {
+            "nom_ingredient": "Persil",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "5"
+        },
+        {
+            "nom_ingredient": "Tahini",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "35"
+        },
+        {
+            "nom_ingredient": "Eau",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "30"
+        },
+        {
+            "nom_ingredient": "Yaourt",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "Demi Orange",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "éplucher l’artichaut pour ne garder que le cœur.",
+        "Les faire revenir dans une poêle avec du beurre et du citron à feu vif pour avoir une coloration.",
+        "Ajouter l’eau dans la poêle, couvrir et laisser cuire pour avoir une texture tendre, jusqu’à évaporation de l’eau.",
+        "Durant la cuisson, dans un bol, mettre le jus d’un demi citron avec le tahini, du sel, du poivre, délier avec un peu d’eau la sauce. Mettre de côté",
+        "Hacher finement le persil et la ciboulette ajouter les amandes concassées, les jus d’un demi citron et d’une orange. Saler poivrer et ajouter l’huile d’olive.",
+        "Pour le dressage, étaler la sauce au tahini, puis déposez les artichaut et mettre par dessus la sauce aux amandes"
+    ],
+    "mots_cles_recette": [
+        "tahini", "artichaut","amande"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "plat"
+}

@@ -1,0 +1,135 @@
+{
+    "nom_recette": "Bûche noisette & caramel beurre salé",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "jaune d'oeufs (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "sucre (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "Maïzena (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "lait (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "500"
+        },
+        {
+            "nom_ingredient": "gousse de vanille (Crème mousseline)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "beurre + 125g de beurre pommade (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "125"
+        },
+        {
+            "nom_ingredient": "caramel beurre salé (Crème mousseline)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "d'eau (Noisettes caramélisées)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "sucre (Noisettes caramélisées)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "noisettes hachées (Noisettes caramélisées)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "jaune d'oeuf (2-3 jaunes oeufs) (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "40"
+        },
+        {
+            "nom_ingredient": "sucre glace (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "75"
+        },
+        {
+            "nom_ingredient": "poudre de noisettes (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "75"
+        },
+        {
+            "nom_ingredient": "d'oeuf (2 oeufs) (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "farine (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "70"
+        },
+        {
+            "nom_ingredient": "blancs d'oeuf (3-4 blancs d'oeufs) (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "110"
+        },
+        {
+            "nom_ingredient": "sucre en poudre (Biscuit noisette)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        }
+    ],
+    "instructions_recette": [
+        "La crème mousseline au caramel beurre salé",
+        "Verser les jaunes d'œufs et le sucre dans un bol et mélanger jusqu'à obtention d'une préparation mousseux. Ajouter la maïzena et mélanger de nouveau.",
+        "Verser le lait, les graines et la gousse de vanille dans une casserole. Porter le lait à ébullition. Retirer la gousse de vanille puis incorporer la moitié du lait dans le mélange jaunes-sucre- maïzena. Mélanger puis remettre la préparation dans la casserole.",
+        "Remettre sur le feu et cuire quelques minutes tout en mélangeant jusqu'à ce que la préparation épaississe.",
+        "Retirer du feu puis incorporer le beurre coupé en morceaux ainsi que le caramel. Mélanger énergiquement jusqu'à obtention d'une préparation homogène.",
+        "Verser la préparation sur une plaque, étaler puis filmer au contact. Laisser complètement refroidir. Une fois que la préparation est à température ambiante,",
+        "La verser dans le bol d'un robot puis mixer à pleine puissance afin de l'émulsionner. Incorporer le beurre pommade et fouetter de nouveau jusqu'à obtention d'une préparation souple et homogène.",
+        "Réserver au réfrigérateur jusqu'à utilisation.",
+        "",
+        "Les noisettes caramélisées",
+        "Préchauffer le four à 170°C. Étaler les noisettes sur une plaque recouverte de papier sulfurisé puis enfourner pour 15 minutes. Verser les noisettes dans un torchon puis frotter le tout afin de retirer les peaux des noisettes. Hacher les noisettes, réserver.",
+        "Verser l'eau et le sucre dans une casserole puis porter le tout à 110°C. Hors du feu, ajouter les noisettes puis mélanger jusqu'à ce que le sirop devienne sableux.",
+        "Remettre la casserole sur le feu et cuire jusqu'à ce que les noisettes caramélisent. Verser la préparation sur une feuille de papier sulfurisé en veillant à bien étaler les noisettes. Laisser complètement refroidir.",
+        "Une fois refroidie, casser quelques morceaux de la préparation qui vont servir pour la décoration de la bûche puis hacher le reste. Réserver.",
+        "",
+        "Le biscuit noisette",
+        "Préchauffer le four à 180°C.",
+        "Verser les jaunes, les oeufs, le sucre glace et la poudre de noisettes dans un bol puis mélanger énergiquement jusqu'à obtention d'une préparation mousseuse.",
+        "Verser les blancs d'oeufs dans le bol d'un robot muni du fouet, puis mélanger. Lorsque la préparation commence à être mousseuse, incorporer la moitié du sucre tout en continuant de fouetter.",
+        "Lorsque la texture commence à bien s'épaissir, ajouter le reste de sucre et poursuivre le mélange encore 2-3 minutes.",
+        "Verser la moitié de la farine et un tiers de la meringue dans le mélange jaune-oeuf-sucre glace - poudre de noisettes et mélanger délicatement à l'aide d'une maryse.",
+        "Lorsque le mélange est homogène, ajouter le reste de farine puis la meringue en 2 fois. Mélanger délicatement jusqu'à obtention d'une préparation aérienne et homogène.",
+        "Verser la préparation sur une plaque recouverte de papier sulfurisé et étalant régulièrement à l'aide d'une spatule et enfourner pour 12 minutes.",
+        "À la fin de la cuisson, débarrasser le biscuit sur une grille recouverte de papier cuisson puis laisser refroidir.",
+        "",
+        "Le montage",
+        "Décoller délicatement la feuille de papier sulfurisé du biscuit puis étaler dessus 2/3 de la mousseline au caramel beurre salé. Parsemer le tout de noisettes caramélisées hachées. Rouler le biscuit sur lui-même (dans la longueur) pour former un boudin. Veiller à bien serrer le boudin. Puis emballer le tout de film alimentaire avant de placer 1 heure au congélateur.",
+        "Détendre le reste de mousseline en la fouettant énergiquement.",
+        "Sortir le boudin du congélateur, retirer le film alimentaire puis recouvrir le tout de mousseline à l'aide d'une cuillère ou d'une spatule.",
+        "Réaliser comme une texture d'écorce d'arbre à l'aide du dos de la cuillère ou alors avec les dents d'une fourchette. Couper les deux extrémités de la bûche pour avoir un résultat net.",
+        "Disposer les morceaux de noisettes caramélisées restants sur le dessus de la bûche puis saupoudrer le tout de copeaux de chocolat.",
+        "Réserver au frais jusqu'au moment de servir."
+    ],
+    "mots_cles_recette": [
+        "done",
+        "buche",
+        "caramel",
+        "noisette",
+        "noël"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

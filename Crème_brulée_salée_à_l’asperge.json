@@ -1,0 +1,45 @@
+{
+    "nom_recette": "Crème brulée salée à l’asperge",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "asperges vertes",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "de lait",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "de crème liquide entière",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "jaunes d’oeufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "5"
+        }
+    ],
+    "instructions_recette": [
+        "Peler les asperges.",
+        "Les cuire à la vapeur 15 minutes ou dans une casserole d’eau pendant 10 minutes.",
+        "Faire bouillir le lait avec la crème, ajouter une pincée de noix de muscade, saler et poivrer.",
+        "Mixer très longuement le mélange lait/crème et asperge.",
+        "Laisser tiédir avant d’ajouter les jaunes d’œufs. Mélanger vigoureusement.",
+        "Répartir dans des moules à crème brûlée, et les disposer dans un plat contenant de l’eau préalablement chauffée",
+        "Cuire au bain marie au moins 45 min à 100° et déguster chaud ou froid !",
+        "💡 Recette insta @charlinedieteticienne"
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "asperge",
+        "jaune d'oeuf", 
+        "lait"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 4,
+    "type_recette": "entrée"
+}

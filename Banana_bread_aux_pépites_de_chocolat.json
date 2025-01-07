@@ -1,0 +1,59 @@
+{
+    "nom_recette": "Banana bread aux pépites de chocolat",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "poudre d'amandes",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "110"
+        },
+        {
+            "nom_ingredient": "oeufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "3"
+        },
+        {
+            "nom_ingredient": "bananes très mûres",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "sucre complet",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "110"
+        },
+        {
+            "nom_ingredient": "levure chimique",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "de beurre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "extrait de vanille",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Préchauffez votre four à 170 degrés. Mélangez le beurre fondu avec les bananes écrasées et l'extrait de vanille Ajoutez-y les œufs et mélangez bien.",
+        "Dans un autre bol mélangez la farine, la poudre d'amandes, le sucre, la levure et le bicarbonate. Incorporez le tout au mélange précédent.",
+        "Ajoutez les pépites de chocolat. Enfournez pour 50 minutes à 170 degrés"
+    ],
+    "mots_cles_recette": [
+        "banane",
+        "chocolat", 
+        "to do"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

@@ -1,0 +1,64 @@
+{
+    "nom_recette": "Cake chocolat sarrazin",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine de sarrasin",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "150"
+        },
+        {
+            "nom_ingredient": "chocolat noir",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "de lait d’amandes",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "beurre mou",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "œufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "3"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "80"
+        },
+        {
+            "nom_ingredient": "sachet de levure chimique",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "0,5"
+        },
+        {
+            "nom_ingredient": "pincée de sel",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Préchauffez le four à 180 degrés. Faites fondre le chocolat et le beurre au bain-marie. Réservez.",
+        "Fouettez les œufs et le sucre jusqu’à ce que le mélange soit mousseux. Ajoutez le chocolat fondu et mélangez.",
+        "Mélangez ensemble la farine de sarrasin, la levure et le sel. Terminez avec le lait. Ajoutez au mélange précédent. Mélangez.",
+        "Faites torréfiez les graines de sarrasin (kasha) à la poêle quelques minutes à feu vif tout en surveillant. Elles doivent être bien croustillantes.",
+        "Beurrez et farinez des petits moules à cakes. Garnissez-les du mélange et recouvrez de graines de sarrasin torréfiées. Enfournez pour 20 minutes. C’est preeeet !",
+        "Recette instagram goodcantine"
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "chocolat",
+        "lait d'amande",
+        "oeuf",
+        "sarrazin"
+    ],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 1,
+    "type_recette": "dessert"
+}

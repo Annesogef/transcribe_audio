@@ -1,0 +1,103 @@
+{
+    "nom_recette": "bò bún 100% veggie",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "de vinaigre de riz (Légumes marinés)",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "80"
+        },
+        {
+            "nom_ingredient": "sucre (Légumes marinés)",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "pincée de sel (Légumes marinés)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "carottes (Légumes marinés)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "½ concombre (Légumes marinés)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "boîte d’émincés végétaux",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": " de sauce soja salée",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "de miso",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "de citronnelle",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "gousse d’ail",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "petit morceau de gingembre",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "nouilles de riz (garniture)",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "feuilles de menthe (garniture)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "tiges de coriandre (garniture)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "10"
+        },
+        {
+            "nom_ingredient": "cacahuètes (garniture)",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "graines de sésame (garniture)",
+            "unite_ingredient": "cuillère(s) à soupe",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "citron vert (garniture)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Épluchez le concombre et les carottes. Râpez les légumes en julienne.",
+        "Mélangez le sucre, le sel et le vinaigre de riz puis laissez mariner les légumes dans la sauce.",
+        "Préparez la marinade des émincés : mélangez la sauce soja, le miso, la citronnelle, une gousse d’ail écrasée et le gingembre émincé. Ajoutez les émincés puis laissez mariner le tout 20 minutes.",
+        "Faites cuire les émincés à la poêle 3 minutes de chaque côté.",
+        "Faîtes cuire les nouilles de riz dans l’eau chaude.",
+        "Dressez vos bò bún avec les nouilles de riz, les émincés, les légumes puis assaisonnez avec de la menthe fraîche et de la coriandre, des cacahuètes, des graines de sésame, un peu de citron vert et de sauce soja."
+    ],
+    "mots_cles_recette": ["carotte","concombre","nouilles de riz"],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 2,
+    "type_recette": "plat"
+}

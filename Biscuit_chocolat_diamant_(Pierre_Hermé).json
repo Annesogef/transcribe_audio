@@ -1,0 +1,68 @@
+{
+    "nom_recette": "Biscuit chocolat diamant (Pierre Hermé)",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "de chocolat noir haché",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "230"
+        },
+        {
+            "nom_ingredient": "de farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "180"
+        },
+        {
+            "nom_ingredient": "de cacao en poudre non sucré",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "50"
+        },
+        {
+            "nom_ingredient": "de levure chimique",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "pincée de sel",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        },
+        {
+            "nom_ingredient": "de beurre à TA",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "120"
+        },
+        {
+            "nom_ingredient": "de sucre roux",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "300"
+        },
+        {
+            "nom_ingredient": "œufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "d’extrait naturel de vanille",
+            "unite_ingredient": "cuillère(s) à café",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Commencer par faire fondre le chocolat au bain-marie puis réservez et laissez refroidir. Dans un saladier, mélangez la farine, le cacao, la levure chimique et le sel.",
+        "Fouetter le beurre et le sucre roux 2 à 3 minutes pour que le mélange blanchisse.",
+        "Ajoutez les œufs, l'extrait de vanille et le chocolat fondu. Mélangez et incorporez la moitié de la farine puis le lait. Incorporez le restant de farine et divisez la pâte en deux morceaux.",
+        "Enveloppez-les dans du film alimentaire et placez au frigo pendant au moins deux heures.",
+        "Préchauffer le four à 180°C et préparez un bol avec le sucre en poudre et un autre avec le sucre glace. Divisez chaque morceaux en petites boules de 2,5 cm de diamètre. Roulez-les dans le sucre en poudre puis dans le sucre glace et disposez-les sur une plaque à pâtisserie garnie de papier sulfurisé (ou encore mieux une plaque en silicone).",
+        "Enfournez pour 14 minutes environ puis laissez refroidir avant de les décoller de la plaque. Vous pouvez conserver ces biscuits 3 jours dans une boîte hermétique."
+    ],
+    "mots_cles_recette": [
+        "to do",
+        "biscuit",
+        "chocolat",
+        "oeuf"
+],
+    "unite_recette": "u",
+    "variantes_recette": [],
+    "quantite_recette": 60,
+    "type_recette": "dessert"
+}

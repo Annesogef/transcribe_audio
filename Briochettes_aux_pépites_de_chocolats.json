@@ -1,0 +1,65 @@
+{
+    "nom_recette": "Briochettes aux pépites de chocolat",
+    "ingredients_recette": [
+        {
+            "nom_ingredient": "farine",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "500"
+        },
+        {
+            "nom_ingredient": "beurre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "de lait",
+            "unite_ingredient": "ml",
+            "quantite_ingredient": "250"
+        },
+        {
+            "nom_ingredient": "sucre",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "100"
+        },
+        {
+            "nom_ingredient": "œufs",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "2"
+        },
+        {
+            "nom_ingredient": "levure boulangère",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "8"
+        },
+        {
+            "nom_ingredient": "pépites de chocolat",
+            "unite_ingredient": "g",
+            "quantite_ingredient": "200"
+        },
+        {
+            "nom_ingredient": "jaune d'œuf (pour la dorure)",
+            "unite_ingredient": "u",
+            "quantite_ingredient": "1"
+        }
+    ],
+    "instructions_recette": [
+        "Délayer la levure dans le lait préalablement tiédi.",
+        "Détaillez grossièrement votre tablette de chocolat en grosse pépites",
+        "Dans la cuve du robot, déposer la farine, le beurre pommade, le sucre et les pépites de chocolat.",
+        "Versez le mélange/lait levure et commencez à pétrir le tout à vitesse moyenne.",
+        "Ajouter les œufs un à un puis continuez à pétrir pendant environ 10min jusqu'à ce que la pâte forme une boule qui se décolle des parois du bol. Sans qu'elle ne chauffe trop sinon arrêter le pétrissage et mettre au frigo le temps que la pate refroidisse",
+        "Recouvrez votre pâton d'un torchon humide et propre et laisser le poussez 1h30 à TA. Il doit doubler de volume.",
+        "Donnez quelques coups dans la pâte pour la dégazer.",
+        "Réalisez des petites boules d'environ 70g chacune. Recouvrez d'un torchon puis laissez une nouvelle fois poussez environ 1h",
+        "A la fin de ce temps de pousse préchauffer votre four à 170 °C dorez vos brioches avec le jaune d'œuf et enfournez pour 20 à 25 min"
+    ],
+    "mots_cles_recette": [
+        "done",
+        "boulangerie",
+        "oeuf", "beurre"
+    ],
+    "unite_recette": "g",
+    "variantes_recette": [],
+    "quantite_recette": 500,
+    "type_recette": "boulangerie"
+}
