@@ -1,96 +1,100 @@
 {
-    "nom_recette": "Flan à la vanille",
-    "ingredients_recette": [
-        {
-            "nom_ingredient": "beurre 1/2 sel mou (pour un cercle de 22x5)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "125"
-        },
-        {
-            "nom_ingredient": "sucre glace",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "90"
-        },
-        {
-            "nom_ingredient": "œuf",
-            "unite_ingredient": "u",
-            "quantite_ingredient": "1"
-        },
-        {
-            "nom_ingredient": "poudre amande",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "30"
-        },
-        {
-            "nom_ingredient": "farine",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "250"
-        },
-        {
-            "nom_ingredient": "lait entier (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "700"
-        },
-        {
-            "nom_ingredient": "sucre (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "150"
-        },
-        {
-            "nom_ingredient": "jaunes d'oeuf (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "160"
-        },
-        {
-            "nom_ingredient": "maïzena (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "60"
-        },
-        {
-            "nom_ingredient": "crème liquide (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "200"
-        },
-        {
-            "nom_ingredient": "beurre 1/2 sel (appareil à flan)",
-            "unite_ingredient": "g",
-            "quantite_ingredient": "100"
-        },
-        {
-            "nom_ingredient": "gousses de vanille et de la poudre (appareil à flan)",
-            "unite_ingredient": "u",
-            "quantite_ingredient": "4"
-        }
-    ],
-    "instructions_recette": [
-        "Pâte à tarte :",
-        "Crémer beurre et sucre",
-        "Ajouter la poudre d’amande",
-        "Puis œuf, sel et farine.",
-        "La conserver au congélateur une fois foncée dans le cercle.",
-        "J’ai plaqué des toiles perforées découpées à l’intérieur du cercle.",
-        "Appareil à flan :",
-        "Portez à ébullition lait, vanille et la 1/2 du sucre.",
-        "À côté mélanger les jaunes et le reste du sucre sans blanchir. Puis la maïzena.",
-        "Y ajouter la 1/2 du lait chaud tout en fouettant pour ne pas cuire les jaunes.",
-        "Remettre le tout à cuire 2 minutes sans cesser de remuer.",
-        "Ajouter crème puis beurre hors du feu.",
-        "Verser dans le fond de tarte encore congelé.",
-        "Enfourner 45 minutes à 165°",
-        "Laisser refroidir et garder au frigo.",
-        "Recette [@quentinlechat](https://www.instagram.com/quentinlechat/)"
-    ],
-    "mots_cles_recette": [
-        "to do",
-        "beurre",
-        "dessert",
-        "jaune d'oeuf",
-        "lait",
-        "oeufs",
-        "poudre d'amande"
-    ],
-    "unite_recette": "u",
-    "variantes_recette": [],
-    "quantite_recette": 1,
-    "type_recette": "dessert"
+  "_id": {
+    "$oid": "677d5ebc30bc0a9c6b6c187e"
+  },
+  "nom_recette": "Flan à la vanille",
+  "ingredients_recette": [
+    {
+      "nom_ingredient": "Beurre 1/2 sel",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 125
+    },
+    {
+      "nom_ingredient": "Sucre glace",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 90
+    },
+    {
+      "nom_ingredient": "Œuf",
+      "unite_ingredient": "u",
+      "quantite_ingredient": 1
+    },
+    {
+      "nom_ingredient": "Poudre d'amande",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 30
+    },
+    {
+      "nom_ingredient": "Farine",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 250
+    },
+    {
+      "nom_ingredient": "Lait entier",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 700,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Sucre",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 150,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Jaunes d'œufs",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 160,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Maïzena",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 60,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Crème liquide",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 200,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Beurre 1/2 sel",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 100,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Gousses de vanille",
+      "unite_ingredient": "u",
+      "quantite_ingredient": 4,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Poudre de vanille",
+      "unite_ingredient": "cuillère(s) à café",
+      "quantite_ingredient": 1,
+      "etape_ingredient": "Appareil à flan"
+    }
+  ],
+  "instructions_recette": [
+    "Crémer le beurre et le sucre",
+    "Ajouter la poudre d’amande",
+    "Ajouter ensuite les œufs, le sel et la farine.",
+    "Foncer la pâte dans un moule et conserver au congélateur",
+    "Pour l'appareil à flan, porter à ébullition le lait avec la vanille et la moitié du sucre.",
+    "À côté, mélanger les jaunes d'œufs et le reste du sucre sans blanchir. Ajouter ensuite la maïzena.",
+    "Y ajouter la moitié du lait chaud tout en fouettant pour ne pas cuire les jaunes.",
+    "Remettre le tout à cuire 2 minutes sans cesser de remuer.",
+    "Ajouter la crème puis le beurre hors du feu.",
+    "Verser dans le fond de tarte encore congelée.",
+    "Enfourner 45 minutes à 165°C",
+    "Laisser refroidir et garder au réfrigérateur."
+  ],
+  "mots_cles_recette": ["flan"],
+  "unite_recette": "u",
+  "variantes_recette": [],
+  "quantite_recette": 1,
+  "type_recette": "dessert"
 }

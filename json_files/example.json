@@ -1,21 +1,100 @@
 {
-  "nom_recette": "Gateau au yaourt",
+  "_id": {
+    "$oid": "677d5ebc30bc0a9c6b6c187e"
+  },
+  "nom_recette": "Flan à la vanille",
   "ingredients_recette": [
     {
-      "nom_ingredient": "Yaourt",
+      "nom_ingredient": "Beurre 1/2 sel",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 125
+    },
+    {
+      "nom_ingredient": "Sucre glace",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 90
+    },
+    {
+      "nom_ingredient": "Œuf",
+      "unite_ingredient": "u",
+      "quantite_ingredient": 1
+    },
+    {
+      "nom_ingredient": "Poudre d'amande",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 30
+    },
+    {
+      "nom_ingredient": "Farine",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 250
+    },
+    {
+      "nom_ingredient": "Lait entier",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 700,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Sucre",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 150,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Jaunes d'œufs",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 160,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Maïzena",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 60,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Crème liquide",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 200,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Beurre 1/2 sel",
+      "unite_ingredient": "g",
+      "quantite_ingredient": 100,
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Gousses de vanille",
+      "unite_ingredient": "u",
       "quantite_ingredient": 4,
-      "unite_ingredient": "g"
+      "etape_ingredient": "Appareil à flan"
+    },
+    {
+      "nom_ingredient": "Poudre de vanille",
+      "unite_ingredient": "cuillère(s) à café",
+      "quantite_ingredient": 1,
+      "etape_ingredient": "Appareil à flan"
     }
   ],
   "instructions_recette": [
-    "Mélanger"
+    "Crémer le beurre et le sucre",
+    "Ajouter la poudre d’amande",
+    "Ajouter ensuite les œufs, le sel et la farine.",
+    "Foncer la pâte dans un moule et conserver au congélateur",
+    "Pour l'appareil à flan, porter à ébullition le lait avec la vanille et la moitié du sucre.",
+    "À côté, mélanger les jaunes d'œufs et le reste du sucre sans blanchir. Ajouter ensuite la maïzena.",
+    "Y ajouter la moitié du lait chaud tout en fouettant pour ne pas cuire les jaunes.",
+    "Remettre le tout à cuire 2 minutes sans cesser de remuer.",
+    "Ajouter la crème puis le beurre hors du feu.",
+    "Verser dans le fond de tarte encore congelée.",
+    "Enfourner 45 minutes à 165°C",
+    "Laisser refroidir et garder au réfrigérateur."
   ],
-  "mots_cles_recette": [
-    "yaourt",
-    "gateau"
-  ],
+  "mots_cles_recette": ["flan"],
+  "unite_recette": "u",
   "variantes_recette": [],
-  "unite_recette": "kg",
-  "quantite_recette": 12,
+  "quantite_recette": 1,
   "type_recette": "dessert"
 }
